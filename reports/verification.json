@@ -1,0 +1,18 @@
+{
+  "id": "developer-platform",
+  "status": "passed",
+  "features": 386,
+  "editableTables": 384,
+  "minimumRows": 15,
+  "repeatSeedCreated": 0,
+  "crud": true,
+  "persistence": true,
+  "relationships": true,
+  "revisions": true,
+  "attachments": true,
+  "exports": true,
+  "mockedAI": true,
+  "originProtection": true,
+  "sourceCalculationsExecuted": 0,
+  "verifiedAt": "2026-09-07T22:06:16.492Z"
+}

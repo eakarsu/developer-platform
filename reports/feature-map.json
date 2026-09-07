@@ -1,0 +1,3604 @@
+{
+  "mapped": [
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "Headings Hierarchy Validator",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "headings-hierarchy-validator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "Form Accessibility Auditor",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "form-accessibility-auditor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "Remediation Priority Ranker",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "remediation-priority-ranker",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "Link Text Quality Checker",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "link-text-quality-checker",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "Media Accessibility Checker",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "media-accessibility-checker",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "Semantic HTML Converter",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "semantic-html-converter",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "Accessibility Readability Score",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "accessibility-readability-score",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "Accessibility Monitoring Dashboard",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "accessibility-monitoring-dashboard",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "Accessible Color Palette Generator",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "accessible-color-palette-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "AI Remediation Assistant",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "remediation-assistant",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "VPAT Generator",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "vpat-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "clients",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "site-audits",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "site-audits",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "wcag-checks",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "wcag-checks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "issues",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "issues",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "fix-suggestions",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "fix-suggestions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "ada-reports",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "ada-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "color-contrast",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "color-contrast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "screen-reader",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "screen-reader",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "keyboard-nav",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "keyboard-nav",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "aria-validation",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "aria-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "alt-text",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "alt-text",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "scores",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "scores",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "certificates",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "certificates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "audit-logs",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent/frontend/src/App.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "sourceKey": "focus-order-risk",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent",
+      "canonical": "focus-order-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "website-accessibility-scanner",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator/client/src/components/Sidebar.jsx",
+      "canonical": "website-accessibility-scanner",
+      "kind": "definition"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "wcag-compliance-checker",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator/client/src/components/Sidebar.jsx",
+      "canonical": "wcag-compliance-checker",
+      "kind": "definition"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "alt-text-generator",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator/client/src/components/Sidebar.jsx",
+      "canonical": "alt-text",
+      "kind": "definition"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "color-contrast-analyzer",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator/client/src/components/Sidebar.jsx",
+      "canonical": "color-contrast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "screen-reader-optimizer",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator/client/src/components/Sidebar.jsx",
+      "canonical": "screen-reader-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "keyboard-navigation-auditor",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator/client/src/components/Sidebar.jsx",
+      "canonical": "keyboard-navigation-auditor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "aria-label-generator",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator/client/src/components/Sidebar.jsx",
+      "canonical": "aria-label-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "accessibility-report-generator",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator/client/src/components/Sidebar.jsx",
+      "canonical": "accessibility-report-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "remediation-plan-creator",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator/client/src/components/Sidebar.jsx",
+      "canonical": "remediation-plan-creator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "legal-compliance-assessor",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator/client/src/components/Sidebar.jsx",
+      "canonical": "legal-compliance-assessor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "pdf-accessibility-checker",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator/client/src/components/Sidebar.jsx",
+      "canonical": "pdf-accessibility-checker",
+      "kind": "definition"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "form-accessibility-analyzer",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator/client/src/components/Sidebar.jsx",
+      "canonical": "form-accessibility-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "video-caption-generator",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator/client/src/components/Sidebar.jsx",
+      "canonical": "video-caption-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "readability-analyzer",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator/client/src/components/Sidebar.jsx",
+      "canonical": "readability-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "accessibility-policy-generator",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator/client/src/components/Sidebar.jsx",
+      "canonical": "accessibility-policy-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "advanced/batch-jobs",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator",
+      "canonical": "advanced-batch-jobs",
+      "kind": "route"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "advanced/comparisons",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator",
+      "canonical": "advanced-comparisons",
+      "kind": "route"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "advanced/remediation-code",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator",
+      "canonical": "advanced-remediation-code",
+      "kind": "route"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "advanced/legal-risk",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator",
+      "canonical": "advanced-legal-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "advanced/invitations",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator",
+      "canonical": "advanced-invitations",
+      "kind": "route"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "advanced/ci-webhook",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator",
+      "canonical": "advanced-ci-webhook",
+      "kind": "route"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "advanced/skills",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator",
+      "canonical": "advanced-skills",
+      "kind": "route"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "advanced/portfolio",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator",
+      "canonical": "advanced-portfolio",
+      "kind": "route"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "advanced/profile",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator",
+      "canonical": "advanced-profile",
+      "kind": "route"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "advanced/wcag-kb",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator",
+      "canonical": "advanced-wcag-kb",
+      "kind": "route"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "advanced/validate-fix",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator",
+      "canonical": "advanced-validate-fix",
+      "kind": "route"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "advanced/bulk-remediate",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator",
+      "canonical": "advanced-bulk-remediate",
+      "kind": "route"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "advanced/ab-test-fix",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator",
+      "canonical": "advanced-ab-test-fix",
+      "kind": "route"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "advanced/remediation-evidence-pack",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator",
+      "canonical": "advanced-remediation-evidence-pack",
+      "kind": "route"
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "sourceKey": "features/counts",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator",
+      "canonical": "features-counts",
+      "kind": "route"
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "sourceKey": "/appointments",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP/frontend/src/components/Layout.jsx",
+      "canonical": "appointments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "sourceKey": "/contacts",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP/frontend/src/components/Layout.jsx",
+      "canonical": "contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "sourceKey": "/categories",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP/frontend/src/components/Layout.jsx",
+      "canonical": "categories",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "sourceKey": "/reminders",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP/frontend/src/components/Layout.jsx",
+      "canonical": "deadlines",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "sourceKey": "/nlp-logs",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP/frontend/src/components/Layout.jsx",
+      "canonical": "nlp-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "sourceKey": "/voice-commands",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP/frontend/src/components/Layout.jsx",
+      "canonical": "voice-commands",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "sourceKey": "/ai/buffer-optimizer",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP/frontend/src/components/Layout.jsx",
+      "canonical": "buffer-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "sourceKey": "/ai/noshow-predictor",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP/frontend/src/components/Layout.jsx",
+      "canonical": "noshow-predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "sourceKey": "/ai/reschedule-suggester",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP/frontend/src/components/Layout.jsx",
+      "canonical": "reschedule-suggester",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "sourceKey": "/ai/resource-allocator",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP/frontend/src/components/Layout.jsx",
+      "canonical": "resource-allocator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "sourceKey": "/ai/conflict-resolver",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP/frontend/src/components/Layout.jsx",
+      "canonical": "conflict-resolver",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "sourceKey": "/ai/extras",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP/frontend/src/components/Layout.jsx",
+      "canonical": "extras",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "sourceKey": "/ai/buffer-optimizer",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP/frontend/src/pages/AIFeatures.jsx",
+      "canonical": "buffer-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "sourceKey": "run",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP",
+      "canonical": "run",
+      "kind": "route"
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "sourceKey": "waitlist-fill-optimizer",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP",
+      "canonical": "waitlist-fill-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "sourceKey": "jobs",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "canonical": "jobs",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "sourceKey": "data",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "canonical": "data",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "sourceKey": "logs",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "canonical": "logs",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "sourceKey": "agents",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "canonical": "agents",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "sourceKey": "competitive-agents",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "canonical": "competitive-agents",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "sourceKey": "schedule-optimizer",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "canonical": "schedule-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "sourceKey": "quality-validator",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "canonical": "quality-validator",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "sourceKey": "selector-recommender",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "canonical": "selector-recommender",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "sourceKey": "anomaly-alerts",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "canonical": "anomaly-alerts",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "sourceKey": "job-queue",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "canonical": "job-queue",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "sourceKey": "competitive-agents-manager",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "canonical": "competitive-agents-manager",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "sourceKey": "export",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "canonical": "export",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "sourceKey": "backlog-tools",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "canonical": "backlog-tools",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "sourceKey": "cua/desktop-control",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "canonical": "cua-desktop-control",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "sourceKey": "cua/screen-capture",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "canonical": "cua-screen-capture",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "sourceKey": "cua/click-planner",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "canonical": "cua-click-planner",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "sourceKey": "cua/form-filler",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "canonical": "cua-form-filler",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "sourceKey": "cua/multi-tab",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "canonical": "cua-multi-tab",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "sourceKey": "cua/session-recording",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "canonical": "cua-session-recording",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "sourceKey": "cua/human-handoff",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "canonical": "cua-human-handoff",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "sourceKey": "cua/policy-guard",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "canonical": "cua-policy-guard",
+      "kind": "route"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/researches",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "researches",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/autofills",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "autofills",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/summaries",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "summaries",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/tab-groups",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "tab-groups",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/bookmarks",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "bookmarks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/passwords",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "passwords",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/adblock-rules",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "adblock-rules",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/reading-items",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "reading-items",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/translations",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "translations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/screenshots",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "screenshots",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/email-templates",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "email-templates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/price-trackers",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "price-trackers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/grammar-checks",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "grammar-checks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/citations",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "citations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/darkmode-rules",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "darkmode-rules",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/notes",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "notes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/todos",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "todos",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/pomodoro-sessions",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "pomodoro-sessions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/habits",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "habits",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/expenses",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "expenses",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/clipboard-entries",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "clipboard-entries",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/blocked-sites",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "blocked-sites",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/quick-links",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "quick-links",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/saved-sessions",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "saved-sessions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/countdowns",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "countdowns",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/color-palettes",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "color-palettes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/snippets",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "snippets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/rss-feeds",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "rss-feeds",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/contacts",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/workouts",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "workouts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/email-scans",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "email-scans",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/invoice-scans",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "invoice-scans",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/meeting-transcripts",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "meeting-transcripts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/code-snippets",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "code-snippets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/resume-reviews",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "resume-reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/contract-reviews",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "contract-reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/health-claims",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "health-claims",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/competitor-monitors",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "competitor-monitors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "sourceKey": "/permission-risk",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "canonical": "permission-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/chatbots",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "chatbots",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/flow-builder",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "flow-builder",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/ai-chat",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "chat",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/flow-visualizer",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "flow-visualizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/context-variables",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "context-variables",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/kb-relevance",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "kb-relevance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/ai-results",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "results",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/ai-tools-mining",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "mining",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/handoff-policy",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "handoff-policy",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/knowledge-base",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "knowledge-base",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/templates",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "templates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/responses",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "responses",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/intents",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "intents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/entities",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "entities",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/training-data",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "training-data",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/quick-replies",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "quick-replies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/media",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "media",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/tags",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "tags",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/conversations",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "conversations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/contacts",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/channels",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "channels",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/broadcasts",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "broadcasts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/webhooks",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "webhooks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/forms",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "forms",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/deployments",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "deployments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/users",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "users",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/api-keys",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "api-keys",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/audit-logs",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "sourceKey": "/plugins",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "canonical": "plugins",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "/snippets",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/App.js",
+      "canonical": "snippets",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "/executions",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/App.js",
+      "canonical": "executions",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "/notebooks",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/App.js",
+      "canonical": "notebooks",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "/environments",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/App.js",
+      "canonical": "environments",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "/packages",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/App.js",
+      "canonical": "packages",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "/visualizations",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/App.js",
+      "canonical": "visualizations",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "/datasets",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/App.js",
+      "canonical": "datasets",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "/reviews",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/App.js",
+      "canonical": "reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "/templates",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/App.js",
+      "canonical": "templates",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "/secrets",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/App.js",
+      "canonical": "secrets",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "/collaborators",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/App.js",
+      "canonical": "collaborators",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "/logs",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/App.js",
+      "canonical": "logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "sandbox-execute",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/pages/AIAdvancedPage.js",
+      "canonical": "sandbox-execute",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "review-diff",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/pages/AIAdvancedPage.js",
+      "canonical": "review-diff",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "performance-profile",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/pages/AIAdvancedPage.js",
+      "canonical": "performance-profile",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "clone-detect",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/pages/AIAdvancedPage.js",
+      "canonical": "clone-detect",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "docs-refresh",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/pages/AIAdvancedPage.js",
+      "canonical": "docs-refresh",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "collab-review",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/pages/AIAdvancedPage.js",
+      "canonical": "collab-review",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "chat",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/pages/AIChatPage.js",
+      "canonical": "chat",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "execute",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/pages/AIChatPage.js",
+      "canonical": "execute",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "review",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/pages/AIChatPage.js",
+      "canonical": "review",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "generate",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/pages/AIChatPage.js",
+      "canonical": "generate",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "debug",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/pages/AIChatPage.js",
+      "canonical": "debug",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "explain",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/pages/AIChatPage.js",
+      "canonical": "explain",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "refactor",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/pages/AIChatPage.js",
+      "canonical": "refactor",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "analyze-data",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/pages/AIChatPage.js",
+      "canonical": "analyze-data",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "convert",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/pages/AIChatPage.js",
+      "canonical": "convert",
+      "kind": "definition"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "ai-chat",
+      "source": "/Volumes/external/projects/AICodeInterpreter",
+      "canonical": "chat",
+      "kind": "route"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "notifications",
+      "source": "/Volumes/external/projects/AICodeInterpreter",
+      "canonical": "messages",
+      "kind": "route"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AICodeInterpreter",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AICodeInterpreter",
+      "sourceKey": "sandbox-risk",
+      "source": "/Volumes/external/projects/AICodeInterpreter",
+      "canonical": "sandbox-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/code-reviews",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/code-analysis",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "code-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/code-comments",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "code-comments",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/refactoring",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "refactoring",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/code-explainer",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "code-snippets",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/documentation",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "documentation",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/api-docs",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "api-docs",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/readme-generator",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "readme-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/security-scan",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "security-scan",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/performance",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "performance",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/test-generation",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "test-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/bug-prediction",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "bug-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/tech-debt",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "tech-debt",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/architecture-review",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "architecture-review",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/dependency-audit",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "dependency-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/deployment-advice",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "deployment-advice",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/github",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "github",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/teams",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "teams",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/assignments",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "assignments",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/webhooks",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "webhooks",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/quality-trends",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "quality-trends",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/security-posture",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "security-posture",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/consensus",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "consensus",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/remediation",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "remediation",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/standards",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "standards",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/cross-repo-deps",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "cross-repo-deps",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/sla-tracker",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "sla-tracker",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "/api-breaking-change",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "canonical": "api-breaking-change",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "sourceKey": "verify-email",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation",
+      "canonical": "verify-email",
+      "kind": "route"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "Query Analyzer",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent/frontend/src/pages/AgentsNewPage.js",
+      "canonical": "query-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "Index Advisor",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent/frontend/src/pages/AgentsNewPage.js",
+      "canonical": "index-advisor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "Health Report",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent/frontend/src/pages/AgentsNewPage.js",
+      "canonical": "health-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "Capacity Forecast",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent/frontend/src/pages/AgentsNewPage.js",
+      "canonical": "capacity-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "Lock Analysis",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent/frontend/src/pages/AgentsNewPage.js",
+      "canonical": "lock-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "Workload Analysis",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent/frontend/src/pages/AgentsNewPage.js",
+      "canonical": "workload-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "Connection Pool Optimizer",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent/frontend/src/pages/AgentsNewPage.js",
+      "canonical": "connection-pool-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "Denormalization Advisor",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent/frontend/src/pages/AgentsNewPage.js",
+      "canonical": "denormalization-advisor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "Replication Lag Monitor",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent/frontend/src/pages/AgentsNewPage.js",
+      "canonical": "replication-lag-monitor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "Storage Cost Analyzer",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent/frontend/src/pages/AgentsNewPage.js",
+      "canonical": "storage-cost-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "Predict Backup Failure",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent/frontend/src/pages/AgentsNewPage.js",
+      "canonical": "predict-backup-failure",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "Metric Anomaly Detection",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent/frontend/src/pages/AgentsNewPage.js",
+      "canonical": "metric-anomaly-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "Security Posture Review",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent/frontend/src/pages/AgentsNewPage.js",
+      "canonical": "security-posture-review",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "databases",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "canonical": "databases",
+      "kind": "route"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "queries",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "canonical": "queries",
+      "kind": "route"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "indexes",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "canonical": "indexes",
+      "kind": "route"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "backups",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "canonical": "backups",
+      "kind": "route"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "backup-schedules",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "canonical": "backup-schedules",
+      "kind": "route"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "agents",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "canonical": "agents",
+      "kind": "route"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "agents-new",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "canonical": "agents-new",
+      "kind": "route"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "failover-drill",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "canonical": "failover-drill",
+      "kind": "route"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "cf/query-optimization-agent",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "canonical": "query-optimization-agent",
+      "kind": "route"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "cf/predictive-performance-modeling",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "canonical": "predictive-performance-modeling",
+      "kind": "route"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "cf/anomaly-detection-for-database-health",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "canonical": "anomaly-detection-for-database-health",
+      "kind": "route"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "cf/schema-evolution-recommendations",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "canonical": "schema-evolution-recommendations",
+      "kind": "route"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "cf/cost-optimization",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "canonical": "cost-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "gap/missing-optimize-query-analyze-slow-queries-recommend-indexe",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "canonical": "missing-optimize-query-analyze-slow-queries-recommend-indexe",
+      "kind": "route"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "gap/no-connection-pooling-or-driver-management-module",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "canonical": "connection-pooling-or-driver-management-module",
+      "kind": "route"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "gap/no-real-time-monitoring-alerting-beyond-stubs",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "canonical": "real-time-monitoring-alerting-beyond-stubs",
+      "kind": "route"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "gap/limited-cloud-db-integrations-no-aws-rds-azure-sql-gcp-cloud",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "canonical": "limited-cloud-db-integrations-no-aws-rds-azure-sql-gcp-cloud",
+      "kind": "route"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "gap/no-replication-failover-management",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "canonical": "replication-failover-management",
+      "kind": "route"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "gap/no-encryption-or-security-audit-module",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "canonical": "encryption-or-security-audit-module",
+      "kind": "route"
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "sourceKey": "gap/no-notification-system",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "canonical": "notification-system",
+      "kind": "route"
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "sourceKey": "recommend-scaling",
+      "source": "/Volumes/external/projects/AIDevOpsInfrastructure/client/src/pages/AINewToolsPage.js",
+      "canonical": "recommend-scaling",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "sourceKey": "security-risk-assessment",
+      "source": "/Volumes/external/projects/AIDevOpsInfrastructure/client/src/pages/AINewToolsPage.js",
+      "canonical": "security-risk-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "sourceKey": "predict-failure",
+      "source": "/Volumes/external/projects/AIDevOpsInfrastructure/client/src/pages/AINewToolsPage.js",
+      "canonical": "predict-failure",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "sourceKey": "incident-prediction",
+      "source": "/Volumes/external/projects/AIDevOpsInfrastructure/client/src/pages/AINewToolsPage.js",
+      "canonical": "incident-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "sourceKey": "cost-forecasting",
+      "source": "/Volumes/external/projects/AIDevOpsInfrastructure/client/src/pages/AINewToolsPage.js",
+      "canonical": "cost-forecasting",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "sourceKey": "detect-anomalies",
+      "source": "/Volumes/external/projects/AIDevOpsInfrastructure/client/src/pages/AINewToolsPage.js",
+      "canonical": "detect-anomalies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "sourceKey": "cf/predictive-infrastructure-scaling",
+      "source": "/Volumes/external/projects/AIDevOpsInfrastructure",
+      "canonical": "predictive-infrastructure-scaling",
+      "kind": "route"
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "sourceKey": "cf/anomaly-detection",
+      "source": "/Volumes/external/projects/AIDevOpsInfrastructure",
+      "canonical": "detect-anomalies",
+      "kind": "route"
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "sourceKey": "cf/cost-optimization-automation",
+      "source": "/Volumes/external/projects/AIDevOpsInfrastructure",
+      "canonical": "cost-optimization-automation",
+      "kind": "route"
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "sourceKey": "cf/failure-prediction",
+      "source": "/Volumes/external/projects/AIDevOpsInfrastructure",
+      "canonical": "predict-failure",
+      "kind": "route"
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "sourceKey": "cf/security-posture-automation",
+      "source": "/Volumes/external/projects/AIDevOpsInfrastructure",
+      "canonical": "security-posture-automation",
+      "kind": "route"
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "sourceKey": "gap/missing-optimize-infrastructure-predict-performance-detect-a",
+      "source": "/Volumes/external/projects/AIDevOpsInfrastructure",
+      "canonical": "missing-optimize-infrastructure-predict-performance-detect-a",
+      "kind": "route"
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "sourceKey": "gap/limited-cloud-platform-integration-no-aws-gcp-azure-sdk-adap",
+      "source": "/Volumes/external/projects/AIDevOpsInfrastructure",
+      "canonical": "limited-cloud-platform-integration-no-aws-gcp-azure-sdk-adap",
+      "kind": "route"
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "sourceKey": "gap/limited-real-time-alerting-and-incident-response-automation",
+      "source": "/Volumes/external/projects/AIDevOpsInfrastructure",
+      "canonical": "limited-real-time-alerting-and-incident-response-automation",
+      "kind": "route"
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "sourceKey": "gap/no-sla-tracking-module",
+      "source": "/Volumes/external/projects/AIDevOpsInfrastructure",
+      "canonical": "sla-tracking-module",
+      "kind": "route"
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "sourceKey": "gap/no-change-management-workflow",
+      "source": "/Volumes/external/projects/AIDevOpsInfrastructure",
+      "canonical": "change-management-workflow",
+      "kind": "route"
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "sourceKey": "gap/no-sms-notifications",
+      "source": "/Volumes/external/projects/AIDevOpsInfrastructure",
+      "canonical": "sms-notifications",
+      "kind": "route"
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "sourceKey": "gap/no-calendar-integration",
+      "source": "/Volumes/external/projects/AIDevOpsInfrastructure",
+      "canonical": "calendar-integration",
+      "kind": "route"
+    },
+    {
+      "project": "aIDocumentationAssistant",
+      "sourceKey": "/notes",
+      "source": "/Volumes/external/projects/aIDocumentationAssistant/src/components/Layout.tsx",
+      "canonical": "notes",
+      "kind": "definition"
+    },
+    {
+      "project": "aIDocumentationAssistant",
+      "sourceKey": "/docs",
+      "source": "/Volumes/external/projects/aIDocumentationAssistant/src/components/Layout.tsx",
+      "canonical": "docs",
+      "kind": "definition"
+    },
+    {
+      "project": "aIDocumentationAssistant",
+      "sourceKey": "/governance/jobs",
+      "source": "/Volumes/external/projects/aIDocumentationAssistant/src/components/Layout.tsx",
+      "canonical": "governance-jobs",
+      "kind": "definition"
+    },
+    {
+      "project": "aIDocumentationAssistant",
+      "sourceKey": "/doc-consistency-risk",
+      "source": "/Volumes/external/projects/aIDocumentationAssistant/src/components/Layout.tsx",
+      "canonical": "doc-consistency-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "aIDocumentationAssistant",
+      "sourceKey": "/templates",
+      "source": "/Volumes/external/projects/aIDocumentationAssistant/src/components/Layout.tsx",
+      "canonical": "templates",
+      "kind": "definition"
+    },
+    {
+      "project": "aIDocumentationAssistant",
+      "sourceKey": "/recordings",
+      "source": "/Volumes/external/projects/aIDocumentationAssistant/src/components/Layout.tsx",
+      "canonical": "recordings",
+      "kind": "definition"
+    },
+    {
+      "project": "aIDocumentationAssistant",
+      "sourceKey": "/integrations",
+      "source": "/Volumes/external/projects/aIDocumentationAssistant/src/components/Layout.tsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "aIDocumentationAssistant",
+      "sourceKey": "/billing-queue",
+      "source": "/Volumes/external/projects/aIDocumentationAssistant/src/components/Layout.tsx",
+      "canonical": "billing-queue",
+      "kind": "definition"
+    },
+    {
+      "project": "aIDocumentationAssistant",
+      "sourceKey": "/users",
+      "source": "/Volumes/external/projects/aIDocumentationAssistant/src/components/Layout.tsx",
+      "canonical": "users",
+      "kind": "definition"
+    },
+    {
+      "project": "aIDocumentationAssistant",
+      "sourceKey": "/audit-logs",
+      "source": "/Volumes/external/projects/aIDocumentationAssistant/src/components/Layout.tsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "applicants",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "applicants",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "applications",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "applications",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "cases",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "matters",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "documents",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "documents",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "appointments",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "appointments",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "benefits",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "benefits",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "notifications",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "messages",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "eligibility",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "eligibility",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "audit-logs",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "ai-assistant",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "assistant",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "benefits-calculator",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "benefits-calculator",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "benefits-navigator",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "benefits-navigator",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "income-verification-guide",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "income-verification-guide",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "appeal-preparation",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "appeal-preparation",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "service-locator",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "service-locator",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "income-change-advisor",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "income-change-advisor",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "cf-comprehensive-benefits-discovery",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "comprehensive-benefits-discovery",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "cf-language-accessibility",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "language-accessibility",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "cf-case-worker-escalation-intelligence",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "case-worker-escalation-intelligence",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "cf-benefits-retention-optimization",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "benefits-retention-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "cf-income-change-advisor",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "income-change-advisor",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "cf-appeal-coaching",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "appeal-coaching",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "gap-no-benefitsnavigator-multiprogram-eligibilit",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "benefitsnavigator-multiprogram-eligibilit",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "gap-no-incomeverificationguide-doc-checklist-ai",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "incomeverificationguide-doc-checklist-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "gap-no-appealpreparation-denialtoappeal-strategy",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "appealpreparation-denialtoappeal-strategy",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "gap-no-servicelocator-local-resources",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "servicelocator-local-resources",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "gap-no-multilingual-translation-ai",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "multilingual-translation-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "gap-no-case-worker-assignmentcommunication-workf",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "case-worker-assignmentcommunication-workf",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "gap-no-benefits-expiration-renewal-reminder-auto",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "benefits-expiration-renewal-reminder-auto",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "gap-no-appeal-lifecycle-tracking",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "appeal-lifecycle-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "gap-no-smsvoice-gateway-integration-project-name",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "smsvoice-gateway-integration-project-name",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "gap-no-sso-with-state-benefit-systems",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "sso-with-state-benefit-systems",
+      "kind": "route"
+    },
+    {
+      "project": "AISMSchatbot",
+      "sourceKey": "gap-no-public-partner-api",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "canonical": "public-partner-api",
+      "kind": "route"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "/coverage-analysis/github-webhook",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform/frontend/src/pages/CIIntegrations.js",
+      "canonical": "coverage-analysis-github-webhook",
+      "kind": "definition"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "/coverage-analysis/gitlab-webhook",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform/frontend/src/pages/CIIntegrations.js",
+      "canonical": "coverage-analysis-gitlab-webhook",
+      "kind": "definition"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "/coverage-analysis/github-actions-trigger",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform/frontend/src/pages/CIIntegrations.js",
+      "canonical": "coverage-analysis-github-actions-trigger",
+      "kind": "definition"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "/coverage-analysis/jenkins-trigger",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform/frontend/src/pages/CIIntegrations.js",
+      "canonical": "coverage-analysis-jenkins-trigger",
+      "kind": "definition"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "flaky-detect",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "canonical": "flaky-detect",
+      "kind": "route"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "dead-code",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "canonical": "dead-code",
+      "kind": "route"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "performance-regression",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "canonical": "performance-regression",
+      "kind": "route"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "ci-integrations",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "canonical": "ci-integrations",
+      "kind": "route"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "coverage-visualization",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "canonical": "coverage-visualization",
+      "kind": "route"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "cf-ai-test-generator-analyzing-code-and-producing-assertions",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "canonical": "ai-test-generator-analyzing-code-and-producing-assertions",
+      "kind": "route"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "cf-mutation-testing-with-generated-mutant-variants-to-assess",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "canonical": "mutation-testing-with-generated-mutant-variants-to-assess",
+      "kind": "route"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "cf-flaky-test-detector-identifying-non-deterministic-failures",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "canonical": "flaky-test-detector-identifying-non-deterministic-failures",
+      "kind": "route"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "cf-dead-code-detector-flagging-untested-code-paths",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "canonical": "dead-code-detector-flagging-untested-code-paths",
+      "kind": "route"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "cf-performance-regression-detection-identifying-test-execution-degradation",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "canonical": "performance-regression-detection-identifying-test-execution-degradation",
+      "kind": "route"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "cf-vcs-webhook-integration-auto-running-suites-on-pr-open",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "canonical": "vcs-webhook-integration-auto-running-suites-on-pr-open",
+      "kind": "route"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "gap-critical-gap-no-ai-driven-test-generation-despite-domain",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "canonical": "critical-gap-no-ai-driven-test-generation-despite-domain",
+      "kind": "route"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "gap-no-mutation-testing-ai-analysis",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "canonical": "mutation-testing-ai-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "gap-no-flaky-test-detection-ml-model",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "canonical": "flaky-test-detection-ml-model",
+      "kind": "route"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "gap-no-code-coverage-gap-recommender",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "canonical": "code-coverage-gap-recommender",
+      "kind": "route"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "gap-limited-vcs-integration-git-auto-trigger-not-visible",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "canonical": "limited-vcs-integration-git-auto-trigger-not-visible",
+      "kind": "route"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "gap-limited-ci-cd-platform-integration-beyond-stub-modules",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "canonical": "limited-ci-cd-platform-integration-beyond-stub-modules",
+      "kind": "route"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "gap-no-code-coverage-visualization-ui-route",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "canonical": "code-coverage-visualization-ui-route",
+      "kind": "route"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "gap-no-test-flakiness-detection-feature",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "canonical": "test-flakiness-detection-feature",
+      "kind": "route"
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "sourceKey": "gap-notifications-limited-to-one-reference-not-a-full",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "canonical": "notifications-limited-to-one-reference-not-a-full",
+      "kind": "route"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "Business",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "business",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "Subscription",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "subscription",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "UsageBilling",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "usage-billing",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "Agent",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "agent",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "Voice",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "voice",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "Script",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "script",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "ResponseLibrary",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "response-library",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "CallFlow",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "call-flow",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "CallFlowNode",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "call-flow-node",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "PhoneNumber",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "phone-number",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "CallRoutingRule",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "call-routing-rule",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "Call",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "call",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "CallMessage",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "call-message",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "CallEvent",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "call-event",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "Integration",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "integration",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "Webhook",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "webhook",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "WebhookLog",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "webhook-log",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "DailyAnalytics",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "daily-analytics",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "ConversationFeedback",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "conversation-feedback",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "AiTrainingData",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "training-data",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "SystemSetting",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "system-setting",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "SpeechEnhancement",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "speech-enhancement",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "AccentAdaptation",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "accent-adaptation",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "IntentClassification",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "intent-classification",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "EmotionDetection",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "emotion-detection",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "MultiLanguageSupport",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "multi-language-support",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "LanguageTranslation",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "language-translation",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "HearingTest",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "hearing-test",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "Campaign",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "campaign",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "CampaignContact",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "campaign-contact",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "AgentKnowledge",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "agent-knowledge",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "AiResult",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "result",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "EmailVerificationToken",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "email-verification-token",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "VsEnrollment",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "vs-enrollment",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "VsEnrollmentSample",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "vs-enrollment-sample",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "VsConsentEvent",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "vs-consent-event",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "VsTtsStyle",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "vs-tts-style",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "VsAvatarRenderJob",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "vs-avatar-render-job",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "VsLipsyncJob",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "vs-lipsync-job",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "VsDubbingJob",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "vs-dubbing-job",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "VsProvenanceRecord",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "vs-provenance-record",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "MediaAsset",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "media-asset",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "MediaUploadSession",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "media-upload-session",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "MediaTimeline",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "media-timeline",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "MediaTimelineVersion",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "media-timeline-version",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "MediaPreviewApproval",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "media-preview-approval",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "MediaCaptionTrack",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "media-caption-track",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "MediaExportPreset",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "media-export-preset",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "MediaPipelineJob",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "media-pipeline-job",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "MediaJobAttempt",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "media-job-attempt",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "MediaProvider",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "media-provider",
+      "kind": "schema"
+    },
+    {
+      "project": "aIVoiceAgent",
+      "sourceKey": "MediaProviderEvent",
+      "source": "/Volumes/external/projects/aIVoiceAgent",
+      "canonical": "media-provider-event",
+      "kind": "schema"
+    },
+    {
+      "project": "cursor",
+      "sourceKey": "cursor",
+      "source": "/Volumes/external/projects/cursor",
+      "canonical": "cursor",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "integrator",
+      "sourceKey": "connections",
+      "source": "/Volumes/external/projects/integrator/backend/migrations/001_initial.sql",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "integrator",
+      "sourceKey": "integration-workflows",
+      "source": "/Volumes/external/projects/integrator/backend/migrations/001_initial.sql",
+      "canonical": "integration-workflows",
+      "kind": "definition"
+    },
+    {
+      "project": "integrator",
+      "sourceKey": "integration-run-requests",
+      "source": "/Volumes/external/projects/integrator/backend/migrations/001_initial.sql",
+      "canonical": "integration-run-requests",
+      "kind": "definition"
+    },
+    {
+      "project": "livocloud",
+      "sourceKey": "livocloud",
+      "source": "/Volumes/external/projects/livocloud",
+      "canonical": "livocloud",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "livomlivo",
+      "sourceKey": "livomlivo",
+      "source": "/Volumes/external/projects/livomlivo",
+      "canonical": "livomlivo",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "mcpServer",
+      "sourceKey": "servers",
+      "source": "/Volumes/external/projects/mcpServer",
+      "canonical": "servers",
+      "kind": "route"
+    },
+    {
+      "project": "mcpServer",
+      "sourceKey": "tools",
+      "source": "/Volumes/external/projects/mcpServer",
+      "canonical": "tools",
+      "kind": "route"
+    },
+    {
+      "project": "mcpServer",
+      "sourceKey": "agents",
+      "source": "/Volumes/external/projects/mcpServer",
+      "canonical": "agents",
+      "kind": "route"
+    },
+    {
+      "project": "mcpServer",
+      "sourceKey": "prompts",
+      "source": "/Volumes/external/projects/mcpServer",
+      "canonical": "prompts",
+      "kind": "route"
+    },
+    {
+      "project": "mcpServer",
+      "sourceKey": "resources",
+      "source": "/Volumes/external/projects/mcpServer",
+      "canonical": "resources",
+      "kind": "route"
+    },
+    {
+      "project": "mcpServer",
+      "sourceKey": "workflows",
+      "source": "/Volumes/external/projects/mcpServer",
+      "canonical": "workflows",
+      "kind": "route"
+    },
+    {
+      "project": "mcpServer",
+      "sourceKey": "knowledge",
+      "source": "/Volumes/external/projects/mcpServer",
+      "canonical": "knowledge",
+      "kind": "route"
+    },
+    {
+      "project": "mcpServer",
+      "sourceKey": "executions",
+      "source": "/Volumes/external/projects/mcpServer",
+      "canonical": "executions",
+      "kind": "route"
+    },
+    {
+      "project": "mcpServer",
+      "sourceKey": "conversations",
+      "source": "/Volumes/external/projects/mcpServer",
+      "canonical": "conversations",
+      "kind": "route"
+    },
+    {
+      "project": "mcpServer",
+      "sourceKey": "logs",
+      "source": "/Volumes/external/projects/mcpServer",
+      "canonical": "logs",
+      "kind": "route"
+    },
+    {
+      "project": "mcpServer",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/mcpServer",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "mcpServer",
+      "sourceKey": "models",
+      "source": "/Volumes/external/projects/mcpServer",
+      "canonical": "models",
+      "kind": "route"
+    },
+    {
+      "project": "mcpServer",
+      "sourceKey": "knowledge-rag",
+      "source": "/Volumes/external/projects/mcpServer",
+      "canonical": "knowledge-rag",
+      "kind": "route"
+    },
+    {
+      "project": "mcpServer",
+      "sourceKey": "cost-summary",
+      "source": "/Volumes/external/projects/mcpServer",
+      "canonical": "cost-summary",
+      "kind": "route"
+    },
+    {
+      "project": "mcpServer",
+      "sourceKey": "agent-chain",
+      "source": "/Volumes/external/projects/mcpServer",
+      "canonical": "agent-chain",
+      "kind": "route"
+    },
+    {
+      "project": "mcpServer",
+      "sourceKey": "multi-model-route",
+      "source": "/Volumes/external/projects/mcpServer",
+      "canonical": "multi-model-route",
+      "kind": "route"
+    },
+    {
+      "project": "mcpServer",
+      "sourceKey": "tool-blast-radius",
+      "source": "/Volumes/external/projects/mcpServer",
+      "canonical": "tool-blast-radius",
+      "kind": "route"
+    },
+    {
+      "project": "SOLRProject",
+      "sourceKey": "SOLRProject",
+      "source": "/Volumes/external/projects/SOLRProject",
+      "canonical": "solrproject",
+      "kind": "source-workflow"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIAccessibilityAuditAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAccessibilityAuditAgent",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIADAWebsiteAccessibilityRemediator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "key": "/features/:featureSlug",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "key": "/features/:featureSlug/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIADAWebsiteAccessibilityRemediator",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "key": "/search",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "key": "health",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "key": "search",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAppointmentSchedulerwithNLP",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIAppointmentSchedulerwithNLP",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIAutonomousWebScrapingAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutonomousWebScrapingAgent",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "key": "/extensions",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "key": "extensions",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIBrowserExtensionPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBrowserExtensionPlatform",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/AIChatbotBuilder/frontend/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIChatbotBuilder",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIChatbotBuilder",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIChatbotBuilder",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIChatbotBuilder",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "key": "/flow-builder/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIChatbotBuilder",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChatbotBuilder",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIChatbotBuilder",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICodeInterpreter",
+      "key": "/history",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICodeInterpreter",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/AICodeInterpreter/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICodeInterpreter",
+      "key": "history",
+      "source": "/Volumes/external/projects/AICodeInterpreter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICodeInterpreter",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AICodeInterpreter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICodeInterpreter",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AICodeInterpreter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICodeInterpreter",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AICodeInterpreter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICodeInterpreter",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AICodeInterpreter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICodeInterpreter",
+      "key": "ai-advanced",
+      "source": "/Volumes/external/projects/AICodeInterpreter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICodeInterpreter",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AICodeInterpreter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICodeInterpreter",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICodeInterpreter",
+      "key": "login",
+      "source": "/Volumes/external/projects/AICodeInterpreter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICodeInterpreter",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "key": "/",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "key": "login",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "key": "register",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCodeReviewDocumentation",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AiCodeReviewDocumentation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIDatabaseAdminAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDatabaseAdminAgent",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIDevOpsInfrastructure",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIDevOpsInfrastructure",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIDevOpsInfrastructure",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDevOpsInfrastructure",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aIDocumentationAssistant",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/aIDocumentationAssistant/src/components/Layout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "aIDocumentationAssistant",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/aIDocumentationAssistant/src/components/Layout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISMSchatbot",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISMSchatbot",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISMSchatbot",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISMSchatbot",
+      "key": "login",
+      "source": "/Volumes/external/projects/AISMSchatbot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISMSchatbot",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISMSchatbot",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AITestGenerationPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITestGenerationPlatform",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "integrator",
+      "key": "/",
+      "source": "/Volumes/external/projects/integrator/frontend/src/pages/Dashboard.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "integrator",
+      "key": "login",
+      "source": "/Volumes/external/projects/integrator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "integrator",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "integrator",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "mcpServer",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "mcpServer",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/mcpServer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "mcpServer",
+      "key": "settings",
+      "source": "/Volumes/external/projects/mcpServer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "mcpServer",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/mcpServer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "mcpServer",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/mcpServer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "mcpServer",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/mcpServer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "mcpServer",
+      "key": "login",
+      "source": "/Volumes/external/projects/mcpServer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "project": "cursor",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    },
+    {
+      "project": "livocloud",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    },
+    {
+      "project": "livomlivo",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    },
+    {
+      "project": "SOLRProject",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    }
+  ]
+}

@@ -1,0 +1,699 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "accessibility-report-generator",
+      "researches",
+      "summaries",
+      "citations",
+      "meeting-transcripts",
+      "contract-reviews",
+      "verify-email",
+      "multilingual-translation-ai"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 11 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "accessibility-report-generator",
+        "title": "Accessibility Report Generator",
+        "originalPath": "/features/accessibility-report-generator"
+      },
+      {
+        "id": "researches",
+        "title": "Research Assistant",
+        "originalPath": "/features/researches"
+      },
+      {
+        "id": "summaries",
+        "title": "Content Summarizer",
+        "originalPath": "/features/summaries"
+      },
+      {
+        "id": "citations",
+        "title": "Citation Generator",
+        "originalPath": "/features/citations"
+      },
+      {
+        "id": "meeting-transcripts",
+        "title": "Meeting Summarizer",
+        "originalPath": "/features/meeting-transcripts"
+      },
+      {
+        "id": "contract-reviews",
+        "title": "Contract Reviewer",
+        "originalPath": "/features/contract-reviews"
+      },
+      {
+        "id": "verify-email",
+        "title": "Verify email",
+        "originalPath": "/features/verify-email"
+      },
+      {
+        "id": "multilingual-translation-ai",
+        "title": "multilingual translation ai",
+        "originalPath": "/features/multilingual-translation-ai"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "headings-hierarchy-validator",
+      "remediation-priority-ranker",
+      "semantic-html-converter",
+      "remediation-assistant",
+      "vpat-generator",
+      "fix-suggestions",
+      "alt-text",
+      "aria-label-generator",
+      "resource-allocator",
+      "conflict-resolver",
+      "extras",
+      "chat",
+      "reviews",
+      "sandbox-execute",
+      "review-diff",
+      "performance-profile",
+      "docs-refresh",
+      "collab-review",
+      "execute",
+      "review",
+      "generate",
+      "debug",
+      "explain",
+      "refactor",
+      "convert",
+      "readme-generator",
+      "sla-tracker",
+      "failover-drill",
+      "replication-failover-management",
+      "recommend-scaling",
+      "governance-jobs",
+      "assistant",
+      "coverage-analysis-github-actions-trigger",
+      "coverage-analysis-jenkins-trigger",
+      "mutation-testing-with-generated-mutant-variants-to-assess",
+      "critical-gap-no-ai-driven-test-generation-despite-domain",
+      "cursor",
+      "livocloud",
+      "livomlivo",
+      "agent-chain",
+      "solrproject"
+    ],
+    "ai": true,
+    "representativeId": "headings-hierarchy-validator",
+    "description": "One assistant for 41 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "headings-hierarchy-validator",
+        "title": "Headings Hierarchy Validator",
+        "originalPath": "/features/headings-hierarchy-validator"
+      },
+      {
+        "id": "remediation-priority-ranker",
+        "title": "Remediation Priority Ranker",
+        "originalPath": "/features/remediation-priority-ranker"
+      },
+      {
+        "id": "semantic-html-converter",
+        "title": "Semantic HTML Converter",
+        "originalPath": "/features/semantic-html-converter"
+      },
+      {
+        "id": "remediation-assistant",
+        "title": "AI Remediation Assistant",
+        "originalPath": "/features/remediation-assistant"
+      },
+      {
+        "id": "vpat-generator",
+        "title": "VPAT Generator",
+        "originalPath": "/features/vpat-generator"
+      },
+      {
+        "id": "fix-suggestions",
+        "title": "AI Fix Suggestions",
+        "originalPath": "/features/fix-suggestions"
+      },
+      {
+        "id": "alt-text",
+        "title": "Alt Text Generator",
+        "originalPath": "/features/alt-text"
+      },
+      {
+        "id": "aria-label-generator",
+        "title": "ARIA Label Generator",
+        "originalPath": "/features/aria-label-generator"
+      },
+      {
+        "id": "resource-allocator",
+        "title": "Resource Allocator",
+        "originalPath": "/features/resource-allocator"
+      },
+      {
+        "id": "conflict-resolver",
+        "title": "Conflict Resolver",
+        "originalPath": "/features/conflict-resolver"
+      },
+      {
+        "id": "extras",
+        "title": "AI Extras",
+        "originalPath": "/features/extras"
+      },
+      {
+        "id": "chat",
+        "title": "AI Chat",
+        "originalPath": "/features/chat"
+      },
+      {
+        "id": "reviews",
+        "title": "Code Reviews",
+        "originalPath": "/features/reviews"
+      },
+      {
+        "id": "sandbox-execute",
+        "title": "Sandbox Execute",
+        "originalPath": "/features/sandbox-execute"
+      },
+      {
+        "id": "review-diff",
+        "title": "Review Diff",
+        "originalPath": "/features/review-diff"
+      },
+      {
+        "id": "performance-profile",
+        "title": "Performance Profiler",
+        "originalPath": "/features/performance-profile"
+      },
+      {
+        "id": "docs-refresh",
+        "title": "Docs Refresher",
+        "originalPath": "/features/docs-refresh"
+      },
+      {
+        "id": "collab-review",
+        "title": "Collaborative Review",
+        "originalPath": "/features/collab-review"
+      },
+      {
+        "id": "execute",
+        "title": "Execute",
+        "originalPath": "/features/execute"
+      },
+      {
+        "id": "review",
+        "title": "Review",
+        "originalPath": "/features/review"
+      },
+      {
+        "id": "generate",
+        "title": "Generate",
+        "originalPath": "/features/generate"
+      },
+      {
+        "id": "debug",
+        "title": "Debug",
+        "originalPath": "/features/debug"
+      },
+      {
+        "id": "explain",
+        "title": "Explain",
+        "originalPath": "/features/explain"
+      },
+      {
+        "id": "refactor",
+        "title": "Refactor",
+        "originalPath": "/features/refactor"
+      },
+      {
+        "id": "convert",
+        "title": "Convert",
+        "originalPath": "/features/convert"
+      },
+      {
+        "id": "readme-generator",
+        "title": "README Generator",
+        "originalPath": "/features/readme-generator"
+      },
+      {
+        "id": "sla-tracker",
+        "title": "Review SLA",
+        "originalPath": "/features/sla-tracker"
+      },
+      {
+        "id": "failover-drill",
+        "title": "Failover drill",
+        "originalPath": "/features/failover-drill"
+      },
+      {
+        "id": "replication-failover-management",
+        "title": "No replication failover management",
+        "originalPath": "/features/replication-failover-management"
+      },
+      {
+        "id": "recommend-scaling",
+        "title": "Scaling Advisor",
+        "originalPath": "/features/recommend-scaling"
+      },
+      {
+        "id": "governance-jobs",
+        "title": "AI Jobs",
+        "originalPath": "/features/governance-jobs"
+      },
+      {
+        "id": "assistant",
+        "title": "Assistant",
+        "originalPath": "/features/assistant"
+      },
+      {
+        "id": "coverage-analysis-github-actions-trigger",
+        "title": "GitHub Actions Trigger",
+        "originalPath": "/features/coverage-analysis-github-actions-trigger"
+      },
+      {
+        "id": "coverage-analysis-jenkins-trigger",
+        "title": "Jenkins Trigger",
+        "originalPath": "/features/coverage-analysis-jenkins-trigger"
+      },
+      {
+        "id": "mutation-testing-with-generated-mutant-variants-to-assess",
+        "title": "mutation testing with generated mutant variants to assess",
+        "originalPath": "/features/mutation-testing-with-generated-mutant-variants-to-assess"
+      },
+      {
+        "id": "critical-gap-no-ai-driven-test-generation-despite-domain",
+        "title": "critical gap no ai driven test generation despite domain",
+        "originalPath": "/features/critical-gap-no-ai-driven-test-generation-despite-domain"
+      },
+      {
+        "id": "cursor",
+        "title": "Cursor work",
+        "originalPath": "/features/cursor"
+      },
+      {
+        "id": "livocloud",
+        "title": "Livocloud work",
+        "originalPath": "/features/livocloud"
+      },
+      {
+        "id": "livomlivo",
+        "title": "Livomlivo work",
+        "originalPath": "/features/livomlivo"
+      },
+      {
+        "id": "agent-chain",
+        "title": "Agent chain",
+        "originalPath": "/features/agent-chain"
+      },
+      {
+        "id": "solrproject",
+        "title": "Solrproject work",
+        "originalPath": "/features/solrproject"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "form-accessibility-auditor",
+      "link-text-quality-checker",
+      "media-accessibility-checker",
+      "accessibility-readability-score",
+      "accessibility-monitoring-dashboard",
+      "accessible-color-palette-generator",
+      "legal-compliance-assessor",
+      "form-accessibility-analyzer",
+      "accessibility-policy-generator",
+      "permission-risk",
+      "security-posture-review",
+      "security-risk-assessment",
+      "detect-anomalies",
+      "incomeverificationguide-doc-checklist-ai"
+    ],
+    "ai": true,
+    "representativeId": "form-accessibility-auditor",
+    "description": "One assistant for 14 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "form-accessibility-auditor",
+        "title": "Form Accessibility Auditor",
+        "originalPath": "/features/form-accessibility-auditor"
+      },
+      {
+        "id": "link-text-quality-checker",
+        "title": "Link Text Quality Checker",
+        "originalPath": "/features/link-text-quality-checker"
+      },
+      {
+        "id": "media-accessibility-checker",
+        "title": "Media Accessibility Checker",
+        "originalPath": "/features/media-accessibility-checker"
+      },
+      {
+        "id": "accessibility-readability-score",
+        "title": "Accessibility Readability Score",
+        "originalPath": "/features/accessibility-readability-score"
+      },
+      {
+        "id": "accessibility-monitoring-dashboard",
+        "title": "Accessibility Monitoring Dashboard",
+        "originalPath": "/features/accessibility-monitoring-dashboard"
+      },
+      {
+        "id": "accessible-color-palette-generator",
+        "title": "Accessible Color Palette Generator",
+        "originalPath": "/features/accessible-color-palette-generator"
+      },
+      {
+        "id": "legal-compliance-assessor",
+        "title": "Legal Compliance Assessor",
+        "originalPath": "/features/legal-compliance-assessor"
+      },
+      {
+        "id": "form-accessibility-analyzer",
+        "title": "Form Accessibility Analyzer",
+        "originalPath": "/features/form-accessibility-analyzer"
+      },
+      {
+        "id": "accessibility-policy-generator",
+        "title": "Accessibility Policy Generator",
+        "originalPath": "/features/accessibility-policy-generator"
+      },
+      {
+        "id": "permission-risk",
+        "title": "Permission Risk Review",
+        "originalPath": "/features/permission-risk"
+      },
+      {
+        "id": "security-posture-review",
+        "title": "Security Posture Review",
+        "originalPath": "/features/security-posture-review"
+      },
+      {
+        "id": "security-risk-assessment",
+        "title": "Security Risk",
+        "originalPath": "/features/security-risk-assessment"
+      },
+      {
+        "id": "detect-anomalies",
+        "title": "Anomaly Detection",
+        "originalPath": "/features/detect-anomalies"
+      },
+      {
+        "id": "incomeverificationguide-doc-checklist-ai",
+        "title": "incomeverificationguide doc checklist ai",
+        "originalPath": "/features/incomeverificationguide-doc-checklist-ai"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "color-contrast",
+      "screen-reader-optimizer",
+      "readability-analyzer",
+      "buffer-optimizer",
+      "noshow-predictor",
+      "selector-recommender",
+      "clone-detect",
+      "analyze-data",
+      "code-analysis",
+      "bug-prediction",
+      "query-analyzer",
+      "lock-analysis",
+      "connection-pool-optimizer",
+      "predict-backup-failure",
+      "predictive-performance-modeling",
+      "schema-evolution-recommendations",
+      "missing-optimize-query-analyze-slow-queries-recommend-indexe",
+      "predict-failure",
+      "incident-prediction",
+      "predictive-infrastructure-scaling",
+      "missing-optimize-infrastructure-predict-performance-detect-a",
+      "ai-test-generator-analyzing-code-and-producing-assertions",
+      "flaky-test-detector-identifying-non-deterministic-failures",
+      "mutation-testing-ai-analysis",
+      "code-coverage-gap-recommender"
+    ],
+    "ai": true,
+    "representativeId": "color-contrast",
+    "description": "One assistant for 25 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "color-contrast",
+        "title": "Color Contrast Analyzer",
+        "originalPath": "/features/color-contrast"
+      },
+      {
+        "id": "screen-reader-optimizer",
+        "title": "Screen Reader Optimizer",
+        "originalPath": "/features/screen-reader-optimizer"
+      },
+      {
+        "id": "readability-analyzer",
+        "title": "Readability Analyzer",
+        "originalPath": "/features/readability-analyzer"
+      },
+      {
+        "id": "buffer-optimizer",
+        "title": "Buffer Optimizer",
+        "originalPath": "/features/buffer-optimizer"
+      },
+      {
+        "id": "noshow-predictor",
+        "title": "No-Show Predictor",
+        "originalPath": "/features/noshow-predictor"
+      },
+      {
+        "id": "selector-recommender",
+        "title": "Selector recommender",
+        "originalPath": "/features/selector-recommender"
+      },
+      {
+        "id": "clone-detect",
+        "title": "Clone Detector",
+        "originalPath": "/features/clone-detect"
+      },
+      {
+        "id": "analyze-data",
+        "title": "Analyze Data",
+        "originalPath": "/features/analyze-data"
+      },
+      {
+        "id": "code-analysis",
+        "title": "Code Analysis",
+        "originalPath": "/features/code-analysis"
+      },
+      {
+        "id": "bug-prediction",
+        "title": "Bug Predictor",
+        "originalPath": "/features/bug-prediction"
+      },
+      {
+        "id": "query-analyzer",
+        "title": "Query Analyzer",
+        "originalPath": "/features/query-analyzer"
+      },
+      {
+        "id": "lock-analysis",
+        "title": "Lock Analysis",
+        "originalPath": "/features/lock-analysis"
+      },
+      {
+        "id": "connection-pool-optimizer",
+        "title": "Connection Pool Optimizer",
+        "originalPath": "/features/connection-pool-optimizer"
+      },
+      {
+        "id": "predict-backup-failure",
+        "title": "Predict Backup Failure",
+        "originalPath": "/features/predict-backup-failure"
+      },
+      {
+        "id": "predictive-performance-modeling",
+        "title": "Predictive performance modeling",
+        "originalPath": "/features/predictive-performance-modeling"
+      },
+      {
+        "id": "schema-evolution-recommendations",
+        "title": "Schema evolution recommendations",
+        "originalPath": "/features/schema-evolution-recommendations"
+      },
+      {
+        "id": "missing-optimize-query-analyze-slow-queries-recommend-indexe",
+        "title": "Missing optimize query analyze slow queries recommend indexe",
+        "originalPath": "/features/missing-optimize-query-analyze-slow-queries-recommend-indexe"
+      },
+      {
+        "id": "predict-failure",
+        "title": "Failure Prediction",
+        "originalPath": "/features/predict-failure"
+      },
+      {
+        "id": "incident-prediction",
+        "title": "Incident Prediction",
+        "originalPath": "/features/incident-prediction"
+      },
+      {
+        "id": "predictive-infrastructure-scaling",
+        "title": "Predictive infrastructure scaling",
+        "originalPath": "/features/predictive-infrastructure-scaling"
+      },
+      {
+        "id": "missing-optimize-infrastructure-predict-performance-detect-a",
+        "title": "Missing optimize infrastructure predict performance detect a",
+        "originalPath": "/features/missing-optimize-infrastructure-predict-performance-detect-a"
+      },
+      {
+        "id": "ai-test-generator-analyzing-code-and-producing-assertions",
+        "title": "ai test generator analyzing code and producing assertions",
+        "originalPath": "/features/ai-test-generator-analyzing-code-and-producing-assertions"
+      },
+      {
+        "id": "flaky-test-detector-identifying-non-deterministic-failures",
+        "title": "flaky test detector identifying non deterministic failures",
+        "originalPath": "/features/flaky-test-detector-identifying-non-deterministic-failures"
+      },
+      {
+        "id": "mutation-testing-ai-analysis",
+        "title": "mutation testing ai analysis",
+        "originalPath": "/features/mutation-testing-ai-analysis"
+      },
+      {
+        "id": "code-coverage-gap-recommender",
+        "title": "code coverage gap recommender",
+        "originalPath": "/features/code-coverage-gap-recommender"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "video-caption-generator",
+      "results"
+    ],
+    "ai": true,
+    "representativeId": "video-caption-generator",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "video-caption-generator",
+        "title": "Video Caption Generator",
+        "originalPath": "/features/video-caption-generator"
+      },
+      {
+        "id": "results",
+        "title": "AI Results History",
+        "originalPath": "/features/results"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "reschedule-suggester",
+      "waitlist-fill-optimizer",
+      "schedule-optimizer",
+      "capacity-forecast",
+      "workload-analysis"
+    ],
+    "ai": true,
+    "representativeId": "reschedule-suggester",
+    "description": "One assistant for 5 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "reschedule-suggester",
+        "title": "Reschedule Suggester",
+        "originalPath": "/features/reschedule-suggester"
+      },
+      {
+        "id": "waitlist-fill-optimizer",
+        "title": "Waitlist fill optimizer",
+        "originalPath": "/features/waitlist-fill-optimizer"
+      },
+      {
+        "id": "schedule-optimizer",
+        "title": "Schedule optimizer",
+        "originalPath": "/features/schedule-optimizer"
+      },
+      {
+        "id": "capacity-forecast",
+        "title": "Capacity Forecast",
+        "originalPath": "/features/capacity-forecast"
+      },
+      {
+        "id": "workload-analysis",
+        "title": "Workload Analysis",
+        "originalPath": "/features/workload-analysis"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "invoice-scans",
+      "storage-cost-analyzer",
+      "cost-forecasting"
+    ],
+    "ai": true,
+    "representativeId": "invoice-scans",
+    "description": "One assistant for 3 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "invoice-scans",
+        "title": "Invoice OCR Analyzer",
+        "originalPath": "/features/invoice-scans"
+      },
+      {
+        "id": "storage-cost-analyzer",
+        "title": "Storage Cost Analyzer",
+        "originalPath": "/features/storage-cost-analyzer"
+      },
+      {
+        "id": "cost-forecasting",
+        "title": "Cost Forecast",
+        "originalPath": "/features/cost-forecasting"
+      }
+    ]
+  }
+]

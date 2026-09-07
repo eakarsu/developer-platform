@@ -1,0 +1,122 @@
+[
+  {
+    "id": "AIAccessibilityAuditAgent",
+    "name": "Accessibility audit agent",
+    "sourceProject": "AIAccessibilityAuditAgent",
+    "services": []
+  },
+  {
+    "id": "AIADAWebsiteAccessibilityRemediator",
+    "name": "Adawebsite accessibility remediator",
+    "sourceProject": "AIADAWebsiteAccessibilityRemediator",
+    "services": []
+  },
+  {
+    "id": "AIAppointmentSchedulerwithNLP",
+    "name": "Appointment schedulerwith nlp",
+    "sourceProject": "AIAppointmentSchedulerwithNLP",
+    "services": []
+  },
+  {
+    "id": "AIAutonomousWebScrapingAgent",
+    "name": "Autonomous web scraping agent",
+    "sourceProject": "AIAutonomousWebScrapingAgent",
+    "services": []
+  },
+  {
+    "id": "AIBrowserExtensionPlatform",
+    "name": "Browser extension platform",
+    "sourceProject": "AIBrowserExtensionPlatform",
+    "services": []
+  },
+  {
+    "id": "AIChatbotBuilder",
+    "name": "Chatbot builder",
+    "sourceProject": "AIChatbotBuilder",
+    "services": []
+  },
+  {
+    "id": "AICodeInterpreter",
+    "name": "Code interpreter",
+    "sourceProject": "AICodeInterpreter",
+    "services": []
+  },
+  {
+    "id": "AiCodeReviewDocumentation",
+    "name": "Code review documentation",
+    "sourceProject": "AiCodeReviewDocumentation",
+    "services": []
+  },
+  {
+    "id": "AIDatabaseAdminAgent",
+    "name": "Database admin agent",
+    "sourceProject": "AIDatabaseAdminAgent",
+    "services": []
+  },
+  {
+    "id": "AIDevOpsInfrastructure",
+    "name": "Dev ops infrastructure",
+    "sourceProject": "AIDevOpsInfrastructure",
+    "services": []
+  },
+  {
+    "id": "aIDocumentationAssistant",
+    "name": "A idocumentation assistant",
+    "sourceProject": "aIDocumentationAssistant",
+    "services": []
+  },
+  {
+    "id": "AISMSchatbot",
+    "name": "Smschatbot",
+    "sourceProject": "AISMSchatbot",
+    "services": []
+  },
+  {
+    "id": "AITestGenerationPlatform",
+    "name": "Test generation platform",
+    "sourceProject": "AITestGenerationPlatform",
+    "services": []
+  },
+  {
+    "id": "aIVoiceAgent",
+    "name": "A ivoice agent",
+    "sourceProject": "aIVoiceAgent",
+    "services": []
+  },
+  {
+    "id": "cursor",
+    "name": "Cursor",
+    "sourceProject": "cursor",
+    "services": []
+  },
+  {
+    "id": "integrator",
+    "name": "Integrator",
+    "sourceProject": "integrator",
+    "services": []
+  },
+  {
+    "id": "livocloud",
+    "name": "Livocloud",
+    "sourceProject": "livocloud",
+    "services": []
+  },
+  {
+    "id": "livomlivo",
+    "name": "Livomlivo",
+    "sourceProject": "livomlivo",
+    "services": []
+  },
+  {
+    "id": "mcpServer",
+    "name": "Mcp server",
+    "sourceProject": "mcpServer",
+    "services": []
+  },
+  {
+    "id": "SOLRProject",
+    "name": "Solrproject",
+    "sourceProject": "SOLRProject",
+    "services": []
+  }
+]
